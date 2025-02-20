@@ -1,6 +1,6 @@
 ## Code and data for: Lytras, S., Strange, A., Ito, J., and Sato K. (2025). Inferring context-specific site variation with evotuned protein language models. *BioRxiv*
 
-- Note that protein sequences retrieved from the GISAID database have been ommitted from the repository.
+- Note that protein sequences retrieved from the GISAID database have been omitted from the repository.
 
 <br>
 
